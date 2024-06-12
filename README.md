@@ -13,3 +13,4 @@
 
 <h2>My stats✨</h2>
 ![ArunKumarS2504's Stats](https://github-readme-stats.vercel.app/api?username=ArunKumarS2504&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik0216&show_icons=true)
