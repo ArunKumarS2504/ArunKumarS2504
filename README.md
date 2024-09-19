@@ -14,4 +14,4 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunKumarS2504)](https://github.com/ArunKumarS2504/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumarS2504&layout=compact)
 
- ![Leetcode Stats](https://leetcard.ak_25_04/JacobLinCool)
+ ![Leetcode Stats](https://leetcard.ak_25_04/ak_25_04)
