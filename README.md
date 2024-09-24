@@ -12,6 +12,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunKumarS2504)](https://github.com/ArunKumarS2504/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumarS2504&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumarS2504&layout=donut-vertical)](https://github.com/ArunKumarS2504/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ak_25_04)
 
